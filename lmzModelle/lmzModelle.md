@@ -5,6 +5,8 @@ Alle Programme speichern wir im Ordner *comthink/lmz_modelle*. Kursiv vor dem Do
 
 
 #### 01 Blinklichter einer Windkraftanlage
+
+[Video](https://youtu.be/dzpOajrXEA0)
  
 Hohe Windkraftanlagen benötigen, um Flugzeuge zu warnen, ein rotes Blinklicht an ihrer Spitze. Das Licht blinkt in einem vorgegebenen Ablauf: 1 Sekunde an, 0,5 Sekunden aus, 1 Sekunde an und dann 1,5 Sekunden aus.
 
