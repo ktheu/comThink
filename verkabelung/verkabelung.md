@@ -1,6 +1,6 @@
 ### Verkabelungen 
 
-[Video](https://youtu.be/a_8ijYz5e4E)
+[Video](https://youtu.be/32u0BNUk8E8)
 
 Wir nehmen rot für plus und grün für minus.
 
