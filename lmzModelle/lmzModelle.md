@@ -105,12 +105,15 @@ Das Binärsystem ist ein Zahlensystem, bei dem mit den Ziffern 0 und 1 Dezimalza
 *zufall:* Schließt drei LEDs und einen Taster an den RX Controller an.
 Mit den drei angeschlossenen LEDs können Zahlen im Binärsystem angezeigt werden. Eine leuchtende LED steht für die Zahl 1 und eine ausgeschaltete LED für die Zahl 0. Programmiert einen Zufallsgenerator, der beim Drücken des Tasters mithilfe der LEDs eine Zufallszahl zwischen 0 und 7 anzeigt.
 
-*ternaer*: Recherchiert, was das Ternärsystem ist. Die LEDs können auch nur schwach leuchten. Dadurch können die Ziffern 0 (LED ist aus), 1 (LED leuchtet leicht), 2 (LED leuchtet stark) dargestellt werden. Im Ternärsystem können mit den 3 LEDs dann Zahlen von 0 bis 17 dargestellt werden. Programmiert einen entsprechenden Zufallsgenerator.
+*ternaer*: Recherchiert, was das Ternärsystem ist. Die LEDs können auch nur schwach leuchten. Dadurch können die Ziffern 0 (LED ist aus), 1 (LED leuchtet leicht), 2 (LED leuchtet stark) dargestellt werden. Im Ternärsystem können mit den 3 LEDs dann Zahlen von 0 bis 26 dargestellt werden. Programmiert einen entsprechenden Zufallsgenerator.
 
 
 <img src='bild9.png' width='500'> 
 
 <img src='bild9a.png' width='200'> 
+
+
+ 
 
 
 #### 10 Reaktionsspiel
