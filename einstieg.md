@@ -13,4 +13,4 @@
 
 6. Video: Verkabelung
 
-7. Stem Suite - Einstiegsmodelle - 
+7. Stem Suite - 3 Aufgabe auswählen - 1 Einstiegsmodelle - jedes der 8 Modelle: erst mit Scratch, dann mit Blockly 
