@@ -3,8 +3,6 @@
 
 ## STEM Coding Max
 
-- [Einstieg](./einstieg.md)
-
 - [Baukasten](./baukasten/baukasten.md)
 
 - [Verkabelung](./verkabelung/verkabelung.md)
