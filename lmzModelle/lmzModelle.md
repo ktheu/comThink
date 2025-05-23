@@ -4,7 +4,9 @@ Das Material auf dieser Seite stammt vom LMZ Baden-Württemberg [www.lmz-bw.de](
 Alle Programme speichern wir im Ordner *comthink/lmz_modelle*. Kursiv vor dem Doppelpunkt steht der vorgeschlagene Programmname.
 
 
-#### 01 Blinklichter einer Windkraftanlage
+#### 01 Blinklichter einer Windkraftanlage 
+
+[Video](https://youtu.be/VT9Gh7OKINk)
 
 Hohe Windkraftanlagen benötigen, um Flugzeuge zu warnen, ein rotes Blinklicht an ihrer Spitze. Das Licht blinkt in einem vorgegebenen Ablauf: 1 Sekunde an, 0,5 Sekunden aus, 1 Sekunde an und dann 1,5 Sekunden aus.
 
