@@ -7,8 +7,14 @@
 
 - [Verkabelung](./verkabelung/verkabelung.md)
 
+- [Python](./python/python.md)
+
+------
+
+- [Stem-Suite-Modelle](./stemSuiteModelle/stemSuiteModelle.md)
+
 - [LMZ-Modelle](./lmzModelle/lmzModelle.md)
 
-- [Python](./python/python.md)
+-----
 
 - [Videos von Modellen](https://youtu.be/-PsDfv9fQbw)
