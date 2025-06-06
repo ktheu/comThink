@@ -18,3 +18,7 @@
 -----
 
 - [Videos von Modellen](https://youtu.be/-PsDfv9fQbw)
+
+-----
+
+- [Fehler](fehler.md) - Die häufigsten Fehler
